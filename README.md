@@ -42,4 +42,6 @@ El proceso de normalización siguió las tres formas normales (1NF, 2NF, 3FN), e
 ## Stack
 
 SQL Server · Python (pandas, SQLAlchemy, scikit-learn, CatBoost) · Streamlit · Plotly · Ollama · QLoRA (Unsloth) · Qwen2.5-Coder-14B
+## Autores
 
+Mateo Pereyra Jara · Meel Alvarado  · Nathalia Villalobos  · Alyssa Trujillo  · Raúl Porras 
